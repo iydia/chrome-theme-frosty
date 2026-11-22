@@ -3,29 +3,29 @@
   "name": "Frosty",
   "version": "1.4.0",
   "description": "A soft, even layer of cold blue snow over wet pavement, with little cat, bunny and fox faces drawn into it.",
+  "icons": {
+    "128": "icons/icon128.png"
+  },
   "theme": {
     "images": {
-      "theme_frame": "images/frame.png",
-      "theme_frame_inactive": "images/frame_inactive.png",
-      "theme_tab_background": "images/tab_background.png",
       "theme_toolbar": "images/toolbar.png",
       "theme_ntp_background": "images/ntp_background.png"
     },
     "colors": {
       "frame": [
-        29,
-        31,
-        35
+        0,
+        0,
+        0
       ],
       "frame_inactive": [
-        33,
-        35,
-        39
+        0,
+        0,
+        0
       ],
       "toolbar": [
-        32,
-        34,
-        38
+        24,
+        26,
+        28
       ],
       "tab_text": [
         232,
@@ -33,14 +33,14 @@
         246
       ],
       "tab_background_text": [
-        176,
-        186,
-        200
+        106,
+        112,
+        122
       ],
       "tab_background_text_inactive": [
-        140,
-        150,
-        164
+        84,
+        90,
+        98
       ],
       "bookmark_text": [
         214,
@@ -59,9 +59,9 @@
         230
       ],
       "omnibox_background": [
-        52,
-        56,
-        63
+        39,
+        42,
+        47
       ],
       "omnibox_text": [
         232,
@@ -82,6 +82,36 @@
         56,
         78,
         108
+      ],
+      "background_tab": [
+        0,
+        0,
+        0
+      ],
+      "background_tab_inactive": [
+        0,
+        0,
+        0
+      ],
+      "frame_incognito": [
+        0,
+        0,
+        0
+      ],
+      "frame_incognito_inactive": [
+        0,
+        0,
+        0
+      ],
+      "background_tab_incognito": [
+        0,
+        0,
+        0
+      ],
+      "background_tab_incognito_inactive": [
+        0,
+        0,
+        0
       ]
     },
     "tints": {
@@ -89,6 +119,31 @@
         0.6,
         0.15,
         0.86
+      ],
+      "frame": [
+        -1,
+        -1,
+        0
+      ],
+      "frame_inactive": [
+        -1,
+        -1,
+        0
+      ],
+      "background_tab": [
+        -1,
+        -1,
+        0
+      ],
+      "frame_incognito": [
+        -1,
+        -1,
+        0
+      ],
+      "frame_incognito_inactive": [
+        -1,
+        -1,
+        0
       ]
     },
     "properties": {
