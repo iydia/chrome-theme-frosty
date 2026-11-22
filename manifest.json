@@ -1,0 +1,99 @@
+{
+  "manifest_version": 3,
+  "name": "Frosty",
+  "version": "1.4.0",
+  "description": "A soft, even layer of cold blue snow over wet pavement, with little cat, bunny and fox faces drawn into it.",
+  "theme": {
+    "images": {
+      "theme_frame": "images/frame.png",
+      "theme_frame_inactive": "images/frame_inactive.png",
+      "theme_tab_background": "images/tab_background.png",
+      "theme_toolbar": "images/toolbar.png",
+      "theme_ntp_background": "images/ntp_background.png"
+    },
+    "colors": {
+      "frame": [
+        29,
+        31,
+        35
+      ],
+      "frame_inactive": [
+        33,
+        35,
+        39
+      ],
+      "toolbar": [
+        32,
+        34,
+        38
+      ],
+      "tab_text": [
+        232,
+        238,
+        246
+      ],
+      "tab_background_text": [
+        176,
+        186,
+        200
+      ],
+      "tab_background_text_inactive": [
+        140,
+        150,
+        164
+      ],
+      "bookmark_text": [
+        214,
+        222,
+        234
+      ],
+      "button_background": [
+        255,
+        255,
+        255,
+        0
+      ],
+      "toolbar_button_icon": [
+        206,
+        216,
+        230
+      ],
+      "omnibox_background": [
+        52,
+        56,
+        63
+      ],
+      "omnibox_text": [
+        232,
+        238,
+        246
+      ],
+      "ntp_background": [
+        222,
+        230,
+        241
+      ],
+      "ntp_text": [
+        36,
+        40,
+        46
+      ],
+      "ntp_link": [
+        56,
+        78,
+        108
+      ]
+    },
+    "tints": {
+      "buttons": [
+        0.6,
+        0.15,
+        0.86
+      ]
+    },
+    "properties": {
+      "ntp_background_alignment": "top",
+      "ntp_background_repeat": "repeat-x"
+    }
+  }
+}
