@@ -1,6 +1,8 @@
 # Frosty Chrome Theme
 *A type of nostalgia.*
 
+Web Store Link: [TBD](https://chromewebstore.google.com)
+
 ## How to Test (Local)
 
 1. Open [chrome://extensions](chrome://extensions).
