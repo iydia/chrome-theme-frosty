@@ -1,7 +1,7 @@
 # Frosty Chrome Theme
 *A type of nostalgia.*
 
-Web Store Link: [TBD](https://chromewebstore.google.com)
+Web Store Link: [Chrome](https://chromewebstore.google.com/detail/iocepgdpjhcgcmionjlmjomocebnbaan?utm_source=item-share-cb)
 
 ## How to Test (Local)
 
